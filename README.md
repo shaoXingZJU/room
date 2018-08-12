@@ -1,5 +1,3 @@
-# room
-room first
 d [你好](https://github.com/shaoXingZJU)
 
 ------
@@ -59,6 +57,6 @@ mathbf{V}_1 \times \mathbf{V}_2 = \begin{vmatrix}
 $$
 
 $$
-
+<Empty \space Math \space Block>
 $$
 
